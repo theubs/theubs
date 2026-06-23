@@ -25,17 +25,6 @@ Hello! I'm a Systems Administrator based in Belgium who loves automating infrast
 
 ---
 
-### 🚀 Projects Showcase
-
-Here are some of my personal projects:
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[VidDiver 🎬](https://github.com/theubs/VidDiver)** | A premium, self-hosted web application for downloading YouTube videos and audio files with a glassmorphic interface and automated zero-config setup. | `React` `Vite` `TypeScript` `Node.js` `Tailwind` |
-| **[Synqify 🎵](https://github.com/theubs/spotify-to-apple-music)** | A client-side web application to easily sync Spotify playlists directly to Apple Music using local matching engines and Apple MusicKit. | `React` `Vite` `TypeScript` `MusicKit JS` |
-
----
-
 ### 🛠️ Languages and Tools
 
 #### 🔧 Backend & Systems / DevOps
